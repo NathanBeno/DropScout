@@ -1,0 +1,9 @@
+requests
+beautifulsoup4
+APScheduler>=3.10,<4
+plyer
+streamlit
+plotly
+pandas
+curl_cffi
+playwright
